@@ -11,11 +11,11 @@
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/baxiclides-basso-neto/weatherapplication?color=green">
 
- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/baxiclides-basso-neto/kenzie-burguer-v2-typescript-baxiclides-basso-neto?color=green">
+ <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/baxiclides-basso-neto/weatherapplication?color=green">
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/baxiclides-basso-neto/kenzie-burguer-v2-typescript-baxiclides-basso-neto?color=green">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/baxiclides-basso-neto/weatherapplication?color=green">
 
-<img alt="GitHub license" src="https://img.shields.io/github/license/baxiclides-basso-neto/kenzie-burguer-v2-typescript-baxiclides-basso-neto?color=green">
+<img alt="GitHub license" src="https://img.shields.io/github/license/baxiclides-basso-neto/weatherapplication?color=green">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/weatherapplication?color=56BEB8" /> -->
 
@@ -46,7 +46,10 @@
 
 ## :dart: About
 
-Describe your project
+A project about building a web application to show the current weather using a weather API from external services Open Weather Map.  
+This is a project from Matheus Battisti, Hora de Codar channel, which I reproduced.
+
+https://baxiclides-basso-neto.github.io/weatherapplication/
 
 https://baxiclides-basso-neto.github.io/weatherapplication/
 
